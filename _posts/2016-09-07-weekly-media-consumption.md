@@ -1,0 +1,34 @@
+---
+id: 76
+title: Weekly Media Consumption
+date: 2016-09-07T02:01:24+00:00
+author: sfort
+layout: post
+guid: http://lindsaythomas.net/eng495f/?p=76
+permalink: /2016/09/07/weekly-media-consumption/
+categories:
+  - Unit 1
+---
+Stuart W. Fort
+
+ENG495f
+
+L. Thomas
+
+<p style="text-align: center">
+  Survey of Weekly Media Consumption
+</p>
+
+            Five days of tracking your consumption of media is no easy task. People these days are working and living in such an upbeat modern society, and it is sometimes difficult to pinpoint where your focus is. Whether I was in class, the gym, or my house, there is constantly some type of electronic media reaching out and bidding for my attention. I believe my generation unique in that we saw the shift into mobile technology from our early teens all the way up until today. I remember seeing my mom struggle to understand what a ‘text message’ was on her old Nokia, now she can Facetime call me from halfway around the world with no worries. I consider it a blessing to have lived my youth through such a drastic shift in technology and ultimately, society. When the way we interact with each other changes, the way we interact with the world tends to follow suit.
+
+&nbsp;
+
+I monitored my use of technology and consumption of media over the course of five days. I began with deciding what categories to divide my usage into. First I considered five simple categories based off of the type of media I was consuming. Simple options such as TV, Laptop, Cell Phone, Radio, and Reading were considered. However, I found it more comprehensive to divide the broad categories into subsections. Under Television, I have chosen to distinguish between the TV program and advertisements. My cell phone was divided into the most time-consuming applications I use. They consist of Facebook, Email, Music, Communication. This was done to give each category a respective purpose, which follow: Social, Business, Entertainment, and Personal. The radio category was left as is. There was no distinction to make, as the category labeled “XM Radio” is simply the time I’m in my car with the music on. My personal laptop usage was divided into Class, Web-Surfing, and Homework. Other than these, I do not use my laptop for much else throughout a normal week. Reading was recorded as estimated time spent reading literature. This was not always fiction but was never counted if it was a textbook, newspaper, instruction manual, etc. This mostly consisted of reading personal books, primarily just before bed. Theses categories were then tracked and recorded for 5 days. I chose to begin my recording on a Friday, as to include the fluctuation in date from a weekend. This was intended to give a more accurate depiction of my week. This information will allow you to understand the graphs more effectively.
+
+&nbsp;
+
+Takeaways from this assignment were mostly what I expected. We all hate to admit it, but we bury our faces in our iPhones and neglect simple literary reading. There is information on my phone that makes my life much more organized and efficient. I take advantage of it because there’s not really much of an option. If I were to walk around without a phone all day, I’d come home to scores of messages and emails. The dilemma I noticed was that there is an immediate availability of other media, which is mostly a waste of time. While eating at the Rat last week, I spent fifteen minutes scrolling through Facebook. Now, in that fifteen minutes did I really see anything that was more important than what my buddy was talking about? Not at all. If I could choose something I do aimlessly that wastes time, social media would be at the top of my list. For many reasons, I have become accustomed to checking my Facebook feed. I know many people who become uncomfortable without their iPhone. They crave the constant feed of new information. Put a book in the same persons&#8217; hand, and you’ll get typical responses, such as their lack of time to read for pleasure. There’s no shame in admitting we would be less effective members of society without our smartphones. They do an incredible amount for us, but inherently get a bad rep for pulling us away from different forms of media. When keeping track of your media consumption, it is very alarming at first to consider how much time we spend on our phones. As I began to ponder the severity of our addiction to media, I thought of that old Abe Lincoln adage. As it goes, “Give me six hours to chop down a tree and I will spend the first four sharpening the ax.” Isn’t there some resonance of this quote in our use of electronic media? It’s quicker, easier, and though it takes so much time out of our schedule, it undeniably makes the rest of our lives better
+
+.<img class="alignnone  wp-image-78" src="http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.56.45-300x64.png" alt="Screen Shot 2016-09-07 at 01.56.45" width="450" height="96" srcset="http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.56.45-300x64.png 300w, http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.56.45-768x164.png 768w, http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.56.45-700x150.png 700w, http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.56.45-800x171.png 800w, http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.56.45.png 982w" sizes="(max-width: 450px) 100vw, 450px" />
+
+<img class=" wp-image-77 alignleft" src="http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.51.42-300x206.png" alt="Screen Shot 2016-09-07 at 01.51.42" width="448" height="308" srcset="http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.51.42-300x206.png 300w, http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.51.42-768x527.png 768w, http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.51.42-700x481.png 700w, http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.51.42-800x549.png 800w, http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.51.42.png 1372w" sizes="(max-width: 448px) 100vw, 448px" /><img class=" wp-image-79 alignleft" src="http://lindsaythomas.net/eng495f/wp-content/uploads/sites/16/2016/09/Screen-Shot-2016-09-07-at-01.52.21-300x234.png" alt="Screen Shot 2016-09-07 at 01.52.21" width="433" height="336" />

@@ -1,0 +1,26 @@
+---
+id: 193
+title: Experimentalists v. Artists
+date: 2016-10-28T13:12:10+00:00
+author: mgallina
+layout: post
+guid: http://lindsaythomas.net/eng495f/?p=193
+permalink: /2016/10/28/experimentalists-v-artists/
+categories:
+  - Unit 4
+---
+Part 1:
+
+An artist’s book can be one of two things: (1) a physical work that combines text and other artistic techniques (music, graphics, textures) into one product so as to catapult its textual component into higher artistic meaning or (2) a non-textual work of music, graphics or sculpture that finds as its medium, the _form_ of the book. Although complicated in definition, the realm of the artist’s book is a much less polemic one than that of the experimental book. The experimental book’s definition is a changing one, mainly because what is experimental or ground-breaking about it will depend on that time’s established literary conventions. When Salvador Plascencia breaks the fourth wall (and creates from the rumble an alternate story line of its own) we think it novel because it runs against the practicality of his “main” story line, or as Marcus puts it, ignores the “central kind of narrative attention” that predominates in today’s literary landscape (41).
+
+While the canon of what constitutes “experimental” changes, one thing that does not is the fact that experimental literature – as its name implies – always relies in the literary tradition to convey a meaning to its audience; or as Marcus so eloquently puts it, creates “art from words” (40). The method is therefore what separates the experimentalists (authors of experimental works) from the artists (authors of artist’s books). The experimentalists rely not on secondary artistic techniques but solely in the power of the textual medium itself – the power of its arrangement – to create works that blur the line between literature and art. They use “syntax as a way to structure sense and feeling, packing experience into language, leveraging grammar as a medium for the making of art” (40). Although the artists feel a connection to the written word, or the form of the codex – depending on whether their work is type 1 or 2 – the text or the form is not enough to convey a desired message. Because of this the artists _use_ the words but do not fundamentally _author_ something new out of them. Instead they rearrange them (Levy’s _Tibetan Stroboscope_), put them in vials (Ginger Burrell’s _Reliquary_) and encase pages with words in resin (Jessica Drenk’s _Reading our Remains_).
+
+One modality is not necessarily better than the other, but I do think that the experimentalists and the artists advance different ideas of what art can mean in the literary tradition. For the artists, the medium of the book proved not to be enough to elicit an intended response from an audience, and so they choose to supplement, or re-engineer, their original textual medium with the addition of a secondary technique. This is evident in works like the _Tibetan Stroboscope_, where sentences taken from religious texts are cut, used sometimes for erasure, and shown next to quasi-pornographic, consumerist or violent images, all in an exploration – I assume – of the greater theme of the sacred vs. the profane in the visual realm. The result is effective, it conveys thematic meaning, has undoubtable esthetic properties – yellowing pages, an elegant monochromatic color scheme – and an aura of its own. The thinness of the pages, reminiscent of newsprint, make the clash of the author’s theme of opposites seem more immediate, current in a way. But after I move onto a different artist book, the tempest ceases, the immediacy of the experience has ended. The artist&#8217;s book therefore depends on immediacy for things to be felt, heard or touched. This exists in stark contrast to experimentalist&#8217;s authors, who champion a textual language that one can internalize and carry, and who allow us to feel, hear and touch solely through text.
+
+Part 2:
+
+What makes “the book” in its many interpretations and iterations, an attractive medium for the makers of artist’s books – which often belong to other “schools” (sculpture, painting, graphic design, musicians) – to communicate with an audience? Where they could’ve presented their work through CD’s, clay or a canvas, these authors/artists, made a conscientious decision to represent their work under the guise or format of “the codex” – in terms of having one or several of the characteristics like a one-sided binding, paper, or a sequence. Why? Use Franzen, Marcus, Hong, Benjamin or Drucker as well as two artist’s books from Special Collections to support your theory.
+
+_The People of Paper_ appears in our course under the unit of “experimental books,” while _Galerie de Difformité_ has “artist’s books” as its unit title. The two works are decidedly codex-y. What _exactly_ accounts for their different categorization? Use Franzen, Marcus, Hong, Benjamin or Drucker to account for this difference.
+
+To what extent can the people that produce artists’ books be called “authors”? Does it depend on the presence of text on their work or should we just use the more general moniker of “artists” to describe them? Decide or suggest a noun to use using Franzen, Marcus, Hong, Benjamin or Drucker as support as well as two artist&#8217;s books from Special Collections.
